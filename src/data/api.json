@@ -1,0 +1,45 @@
+{
+  "productos": [
+    {
+      "id": "0a8e",
+      "nombre": "Báscula Inteligente",
+      "descripcion": "Báscula Inteligente con conexión wifi",
+      "precio": 49.99,
+      "createdAt": "2024-11-27T18:20:46.462Z"
+    },
+    {
+      "id": "8199",
+      "nombre": "Ordenador de Sobremesa",
+      "descripcion": "Ordenador de Sobremesa ",
+      "precio": 799.99,
+      "createdAt": "2024-11-27T18:21:12.031Z"
+    },
+    {
+      "id": "1558",
+      "nombre": "Cableado Red",
+      "descripcion": "Cableado Red LAN",
+      "precio": 15.24,
+      "createdAt": "2024-11-27T18:21:30.251Z"
+    }
+  ],
+  "clientes": [
+    {
+      "id": "4a53",
+      "nombre": "Pedro Aguado",
+      "domicilio": "Calle Picos, 20",
+      "fecha_nacimiento": "1995-04-04"
+    },
+    {
+      "id": "c46b",
+      "nombre": "Miguel Jimenez",
+      "domicilio": "Calle Ancha, 22",
+      "fecha_nacimiento": "2007-12-27"
+    },
+    {
+      "id": "ade4",
+      "nombre": "Kike Garcia",
+      "domicilio": "Calle Pino, 44",
+      "fecha_nacimiento": "1997-10-24"
+    }
+  ]
+}
